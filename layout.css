@@ -1,0 +1,64 @@
+#theme{
+    background-color: rosybrown;
+}
+
+#logobox{
+    position: absolute;
+    top: 20px;
+    left: 50px;
+    width: 150px;
+}
+
+#bodybox{
+    position: absolute;
+    top: 90px;
+    left: 20px;
+    width: 900px;
+    height: 600px;
+}
+
+#navbox{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 750px;
+}
+
+#photobox{
+    position: absolute;
+    top: 150px;
+    right: 470px;
+    width: 160px;
+    height: 200px;
+}
+
+#textbox{
+    position: absolute;
+    top: 130px;
+    right: 155px;
+    width: 300px;
+}
+
+ul {
+    height: 60px;
+    list-style: none;
+    }
+li {
+    padding: 15px;
+    width: 100px;
+    /* display: inline-block; */
+    float: right;
+    background-color:  rosybrown;
+    }
+
+li a {
+    /* display: inline-block; */
+     float: left ;
+    color: #fff;
+    text-indent: 10px;
+    text-decoration: none;
+}
+
+h1{
+    font-size: 64px;
+}
